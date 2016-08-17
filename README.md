@@ -1,5 +1,5 @@
-# YCharts API Python Client (SAMPLE)
-This is a python client for accessing the YCharts API.
+# YCharts API PHP Client (SAMPLE)
+This is a php client for accessing the YCharts API.
 
 ## API Documentation
 For additional documentation, please see [our website](https://ycharts.com/api/docs/)
